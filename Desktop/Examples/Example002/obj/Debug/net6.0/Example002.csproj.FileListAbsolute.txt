@@ -1,0 +1,15 @@
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/Example002
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/Example002.deps.json
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/Example002.runtimeconfig.json
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/Example002.dll
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/ref/Example002.dll
+/Users/anastasiaprusakova/Desktop/Examples/Example002/bin/Debug/net6.0/Example002.pdb
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.dll
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/ref/Example002.dll
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.pdb
+/Users/anastasiaprusakova/Desktop/Examples/Example002/obj/Debug/net6.0/Example002.genruntimeconfig.cache
