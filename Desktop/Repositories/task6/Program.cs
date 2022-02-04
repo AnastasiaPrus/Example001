@@ -5,7 +5,7 @@ int n = int.Parse(Console.ReadLine());
 
 if (n % 2 == 0 )
 { 
-    Console.WriteLine("Число чётное ");
+    Console.WriteLine("Число чётное " );
 } 
 
 else
