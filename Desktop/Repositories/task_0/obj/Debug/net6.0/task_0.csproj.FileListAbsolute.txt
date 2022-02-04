@@ -1,0 +1,15 @@
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/task_0
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/task_0.deps.json
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/task_0.runtimeconfig.json
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/task_0.dll
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/ref/task_0.dll
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/bin/Debug/net6.0/task_0.pdb
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.csproj.AssemblyReference.cache
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.AssemblyInfoInputs.cache
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.AssemblyInfo.cs
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.csproj.CoreCompileInputs.cache
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.dll
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/ref/task_0.dll
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.pdb
+/Users/anastasiaprusakova/Desktop/Repositories/task_0/obj/Debug/net6.0/task_0.genruntimeconfig.cache
