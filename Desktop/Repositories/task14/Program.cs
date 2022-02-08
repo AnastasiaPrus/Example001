@@ -3,7 +3,6 @@
 Console.WriteLine("Введите трёхзначное число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
-// int n, a, b, c;
 int b;
 
 if (n < 100 || n >= 1000)
