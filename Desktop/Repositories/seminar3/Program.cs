@@ -58,4 +58,44 @@ int n = int.Parse(Console.ReadLine());
 if (n/10000 == n%10 && n/1000%10 == n%100/10) Console.WriteLine("Число палиндром");
 else Console.WriteLine("Число не является палиндромом");
 
+// Программа проверяет пятизначное число на палиндромом.
+// int number = new Random().Next(10000, 99999);
+// String s = number.ToString();
+// Console.WriteLine("Число: " + number);
+// if (s[0] == s[4] && s[1] == s[3])
+// {
+// Console.WriteLine("Число - палиндром");
+// }
+// else
+// Console.WriteLine("Число - не палиндром");
+
+
 // Задача 23: Показать таблицу квадратов чисел от 1 до N
+
+Console.WriteLine("Введите N: ");
+int n1 = int.Parse(Console.ReadLine());
+
+for(int i=1; i<=n1; i++)
+{
+    Console.WriteLine($"Квадрат числа {i} = {i*i}");
+}
+
+Console.WriteLine();
+
+
+// Console.WriteLine("Введите N: ");
+// int n2 = int.Parse(Console.ReadLine());
+
+for(int i=1; i<=n1; i++)
+{
+    Console.Write($" \t {i} ");
+}
+
+Console.WriteLine();
+
+for(int i=1; i<=n1; i++)
+{
+    Console.Write($" \t {i*i} ");
+}
+
+Console.WriteLine();
