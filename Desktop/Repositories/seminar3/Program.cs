@@ -82,9 +82,7 @@ for(int i=1; i<=n1; i++)
 
 Console.WriteLine();
 
-
-// Console.WriteLine("Введите N: ");
-// int n2 = int.Parse(Console.ReadLine());
+// 2 вариант
 
 for(int i=1; i<=n1; i++)
 {
